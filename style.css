@@ -1,0 +1,75 @@
+/*
+ * Mangled from http://www.thelantern.com/se/cp.global.css
+ * Mangled by Ben Keith (keith.146@osu.edu) for The Lantern
+ * Mangled March 2013, 2013-03
+ */
+
+*{list-style:none;margin:0;padding:0;}
+body{text-align:center;color:#000;font-family:Arial, Helvetica, sans-serif;font-size:62.5%;background:#ccc;margin:0;padding:0;width:100%;}
+h1{font-size:2.5em;margin:0;}
+h2{font-size:1.8em;color:#474747;margin:0;}
+h3,.h3{font-size:1.5em;margin:0;}
+h4{font-size:1.2em;margin:0;}
+h5{font-size:1em;margin:0;}
+p{font-size:1.2em;line-height:1.6em;margin:0;}
+a{color:#00559e;text-decoration:none;}
+a:hover{text-decoration:underline;}
+img{border:0;}
+ul,li,ol,dl{list-style-type:none;margin:0;padding:0;}
+#wrapper{width:975px;text-align:left;margin:0 auto;}
+.header{position:relative;width:100%;background-color:#d61e00;
+	background: #d81f00; /* Old browsers */
+	background: -moz-linear-gradient(top, #d81f00 0%, #c91c00 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#d81f00), color-stop(100%,#c91c00)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #d81f00 0%,#c91c00 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #d81f00 0%,#c91c00 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #d81f00 0%,#c91c00 100%); /* IE10+ */
+	background: linear-gradient(to bottom, #d81f00 0%,#c91c00 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d81f00', endColorstr='#c91c00',GradientType=0 ); /* IE6-9 */
+	}
+.headline{margin:10px;}
+/* #timeline{width:99%;padding:1px;} */
+.todo{background-color:#ff00ff;font-size:3em;}
+#timeline{max-width:1000px;width:auto;height:auto;margin: 0 auto;text-align:center}
+#timeline iframe{margin: 10px 0 0px 0;}
+iframe html{width: 98%;}
+.bodytext{max-width:800px;width:auto;margin:0 auto;text-align:left;padding:0px 5px 20px 5px;}
+#footer{clear:both;background:#ddd;padding:1em 0;}
+#footer{width:100%;clear:both;background:#e0e0e0;border-top: 2px solid #eee;color:#767676;margin:0;padding:.8em 0;}
+#footer p {color:#767676;margin: 0 0 .5em;}
+#footer p a {color:#767676;padding: 0 .4em;text-decoration:none;}
+#footer a b {color: #676767;}
+#footer p a#logo_access {padding: 0}
+#footer img{vertical-align:middle;}
+#footer img.matchLocal {vertical-align:bottom;margin:-1px 0 0;}
+#footer img#logo_cmn {margin: 0 0 0 170px;}
+a #logo_access img {vertical-align: bottom;position:relative;top: -5px;margin: 0 110px 0 0;}
+#footer span.webserver{width:30px;float:left;font-size:1em;color:#e0e0e0;}
+#social{font-size:1em;}
+.article{background:#fff;width:100%;}
+.article .author,.article .author2{color:#9c9c9c;font-size:1.1em;margin:.7em 0;}
+.article .articleDate,.article .date{color:#9c9c9c;font-size:.9em;margin:.7em 0;}
+.article h2{color:#6d6d6d;font-weight:400;margin:0 0 .3em;}
+.article iframe{width:100%;}
+.article .video,.article .pdf,{float:right;clear:right;margin:0 0 1em 1em;}
+.article .credit{text-align:right;font-size:.9em;margin:0 0 .3em;}
+.article .caption{line-height:1.3em;font-size:1em;}
+.text p{padding:.5em 0;}
+.text ol,.text ul{font-size:1.2em;margin:1em 1em 1em 2em;}
+.text ol ul,.text ul ol{font-size:1em;}
+.text ol li{list-style-type:decimal;padding:.3em 0;}
+.text ul li{list-style-type:disc;padding:.3em 0;}
+
+@media projection,screen {.ui-tabs-hide{display:none;}}
+
+@media print {*{overflow:visible!important;}
+#wrapper,#contentWrapper,#content,.article,.text{float:none;}
+body,.article .text,.article{font-size:13px;color:#000;background:#fff;}
+#wrapper,#content,.article{width:auto;}
+.article{margin:.5em;padding:.5em;}
+p.author,p.date{font-size:12px;}
+a:link,a:visited{text-decoration:none;border-bottom:1px dotted #bbb;}
+a:hover{border-bottom:1px dotted #bbb;}
+a.img,a img{border:none;}
+.ui-tabs-nav,#primeNav,#hat,.ad,.article .articleTools,#tabs_article_comments,#sideBar,.articleComments,.relatedLinks,#outbrain,.related,.generic_form,#footer,#footer,.articleTools,.search,.subNavH,.policyLinks,p.breadCrumb,#header .date{display:none;}}
+      
