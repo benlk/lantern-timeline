@@ -32,7 +32,7 @@ If it looks odd on The Lantern's site, try changing the `frameborder` and `heigh
 
 ### The separate timeline
 
-To check how things are working, you can download `timeline-blank.html`, 'plain-red-lantern-logo.gif` and  `style.css`. Put them all in a folder on your computer. 
+To check how things are working, you can download `timeline-blank.html`, `plain-red-lantern-logo.gif` and `style.css`. Click the "Files" tab above this document. For each document you want to download, open the document, click "Raw", then use your browser's "File>Save As" function. Put all the files you download in a folder on your computer. 
 
 Open `timeline-blank.html` and read through it. If you know HTML, it's not hard to find what needs to be modified. Otherwise, read the comments in the code - they've got lots of ################# to mark them. Any section of text that begins with `<!--` and ends with `-->` is a comment.
 
