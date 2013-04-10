@@ -38,14 +38,14 @@ Open `timeline-blank.html` and read through it. If you know HTML, it's not hard 
 
 A quick overview:
 * Set the page title (what shows up in the title of the browser window)
-* Set the headline
-* Paste in your embed code
-* Set the publication date
-* Set the byline
+* Set the headline (your story headline)
+* Paste in your embed code (see above)
+* Set the publication date (when it's going to be in the paper)
+* Set the byline (see the comment for additional information)
 * Paste in your story
-* Put a <p> before each paragraph of the story
-* Put a </p> after each paragraph of the story
-* Remove the big pink paragraphs.
+** Put a `<p>` before each paragraph of the story
+** Put a `</p>` after each paragraph of the story
+* Remove the big pink paragraphs. (see the comment for additional information)
 * Save.
 
 Right-click on the file and open it with a web browser. It should look correct, if you've followed these instructions. If it doesn't, check that all the HTML is correct. If you don't know about that, you should consider taking a web design class.
