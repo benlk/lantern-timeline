@@ -52,6 +52,25 @@ Right-click on the file and open it with a web browser. It should look correct, 
 
 If you want to put this page online, take the folder containing all these files (you did put it in a folder, right?), compress it, and send it to The Lantern systems manager, who in 2013 was Jay Smith. If you don't know who that is, ask your editor for the person in charge of the website.
 
+## QR Codes
+
+Copy the URL of your story. 
+
+Go to http://keremerkan.net/qr-code-and-2d-code-generator/ (Recommended by Jay) and choose the following options:
+
+* Code action: Browse to a website
+* Code type: QR code
+* Web site URL: **paste your URL**
+* URL shortening: none
+* Error correction level: low
+* Block size in pixels: 10
+* Margin size in blocks: 1
+* Output type: **PDF**
+* Foreground color: #000000
+* Background color: #ffffff
+
+Then generate code. You'll get a PDF file. Save it, and email it to your editors and the design editor. 
+
 ## Copyright notice
 All content, except as otherwise marked, is copyright The Lantern, The Ohio State University. See LICENSE.MD. For more information, contact [The Lantern faculty advisor][1].
 
